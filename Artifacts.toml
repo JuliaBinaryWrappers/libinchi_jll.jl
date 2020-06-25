@@ -1,0 +1,25 @@
+[[libinchi]]
+arch = "x86_64"
+git-tree-sha1 = "3292a4de0d21163618ccbe2d91e484bd10807dff"
+os = "macos"
+
+    [[libinchi.download]]
+    sha256 = "97a3144fadb05dd2b7c79c43e7fe65aecdff083957d9e61e93c259cfd276e621"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.0+0/libinchi.v1.5.0.x86_64-apple-darwin14.tar.gz"
+[[libinchi]]
+arch = "x86_64"
+git-tree-sha1 = "6e2a36c847dcc2fb854000d82a8b2c6b88ca1818"
+libc = "glibc"
+os = "linux"
+
+    [[libinchi.download]]
+    sha256 = "2c5d4fec26f02191074e490203ab44cebac68397f9050eb4f1d94b4cc3652fbd"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.0+0/libinchi.v1.5.0.x86_64-linux-gnu.tar.gz"
+[[libinchi]]
+arch = "x86_64"
+git-tree-sha1 = "906f07edaa926ef139f74121515a254f7622562e"
+os = "windows"
+
+    [[libinchi.download]]
+    sha256 = "79dd6bf2c004f3fa000c59e50478e1b9d1a88340099823c316ce87eba73e0afb"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.0+0/libinchi.v1.5.0.x86_64-w64-mingw32.tar.gz"
