@@ -7,7 +7,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libinchi,
-        "lib/libinchi.1.05.dylib",
+        "lib/libinchi.1.06.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

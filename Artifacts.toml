@@ -1,143 +1,143 @@
 [[libinchi]]
 arch = "aarch64"
-git-tree-sha1 = "c1157685d32812c545bd94ab6bc9ec8f5f177db9"
+git-tree-sha1 = "d12d90b6bab6241be5e599d8e418ae6507afaea7"
 os = "macos"
 
     [[libinchi.download]]
-    sha256 = "e9685ff135ecffb13432d7b524df8e8d1a0cf02620550c5160e3ccf8fb420f67"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "4ae6e138aa002a41bd2a19e4ef4e7ea06a992520a181210975801a897d58bc0b"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.aarch64-apple-darwin.tar.gz"
 [[libinchi]]
 arch = "aarch64"
-git-tree-sha1 = "615b319755198e365e3a70ed099a5fe94fc7751a"
+git-tree-sha1 = "e5d74fff1398138bd657b08062893dc33cfa3f31"
 libc = "glibc"
 os = "linux"
 
     [[libinchi.download]]
-    sha256 = "d3161b7d09859a077578ac6136d573638b29571464c91139406f838cff1d8866"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "57257b84c7fb51f11ec20ef38b0ee5410e47c8c0f600935276bd538a45d1e9b9"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.aarch64-linux-gnu.tar.gz"
 [[libinchi]]
 arch = "aarch64"
-git-tree-sha1 = "ff45aa869786c0095336b606f5279e96db784140"
+git-tree-sha1 = "aa7a2135af13f9bf4e76c22e44bc6f8d3607a25f"
 libc = "musl"
 os = "linux"
 
     [[libinchi.download]]
-    sha256 = "a51b0964195a18325d0bfbf5beabd0da192b08e08aa576d9e08cf7f5e5bb2b96"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.aarch64-linux-musl.tar.gz"
+    sha256 = "9c9d0c4016c3b53982be6b5f752b4a1f8edd2421b68673c07119cdd890bfba94"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.aarch64-linux-musl.tar.gz"
 [[libinchi]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "09bb1a2a2365627e0c80e8c412a196a3620e3464"
+git-tree-sha1 = "67c8a7c6bed3ed51da9ce8a00fa482e886ab5bc6"
 libc = "glibc"
 os = "linux"
 
     [[libinchi.download]]
-    sha256 = "725e7730148f794898d98ae97f978105a0ffaa7df13fe9d284ed159b58108e4a"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "55f10f75c3093dd0569507d60bd6dd34b1c6cec98763add35357d0013b451d9a"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.armv6l-linux-gnueabihf.tar.gz"
 [[libinchi]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "669210cbfe7a76bcd798dde9339e19c4d4df5d00"
+git-tree-sha1 = "1514424a69ef05bf91a5cd713791d9f9b05535f1"
 libc = "musl"
 os = "linux"
 
     [[libinchi.download]]
-    sha256 = "329549476b5a8693cccc0d9df807c868284bc83db34f0d3843addc9a5e02071e"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "e9f50124b49a8c10b5759156fbeedf29025e25ac43c1b147dade10b3723b6b35"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.armv6l-linux-musleabihf.tar.gz"
 [[libinchi]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8d3bb728979ecd61fe63d17d3eb960f975fa1f2f"
+git-tree-sha1 = "d8c4f04257b05d270624de5ada0d870842f93a02"
 libc = "glibc"
 os = "linux"
 
     [[libinchi.download]]
-    sha256 = "bfbc0ff76533222344fb7fe18ed402cb008ed1d047769d480bbd14d8d51264d4"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "40a2dd72e2f4a91c68d5793e760d2ba8519956802e3ca5f757fdaf811d44b657"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.armv7l-linux-gnueabihf.tar.gz"
 [[libinchi]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "545645a374fcb1fd3ead209fbf00839697e35408"
+git-tree-sha1 = "23d27da8b9314a4c52be0c431c79af320da4ec38"
 libc = "musl"
 os = "linux"
 
     [[libinchi.download]]
-    sha256 = "06724f93b053a95a498ff9c234c8f0f8f31cc8610edc220c45f8913e4a7d3a45"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "31c803d572e9b441ea080edc4eb1839850aa44868ce409693a0903d8e178ae75"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.armv7l-linux-musleabihf.tar.gz"
 [[libinchi]]
 arch = "i686"
-git-tree-sha1 = "731011c52e21d7a2798555881516fcc2e788b15a"
+git-tree-sha1 = "1be6e059e312c99733d78bd15df334ea0165cf53"
 libc = "glibc"
 os = "linux"
 
     [[libinchi.download]]
-    sha256 = "74f08c5b3bbfc1d237483a7602dd7f8d14f9fba6a1ecabd41ad34deb5b240c5a"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.i686-linux-gnu.tar.gz"
+    sha256 = "32042094860c492f0685a825a41c6fd0820171b91330bcaf6c9595395b4fe608"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.i686-linux-gnu.tar.gz"
 [[libinchi]]
 arch = "i686"
-git-tree-sha1 = "6d04380231e52d0d995d3a8216f29c3e49ff8b0f"
+git-tree-sha1 = "fc30ecd8e2a5d9ed2c4bc4edfec7c4378f77348b"
 libc = "musl"
 os = "linux"
 
     [[libinchi.download]]
-    sha256 = "510af2e9d799a1c8442d71d642b5a31d010ed83682a05b64d2c08dc806e7bc24"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.i686-linux-musl.tar.gz"
+    sha256 = "495cb6313df182c6970bff07ff51e92c6648fa742670b108b3f59f29a439408c"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.i686-linux-musl.tar.gz"
 [[libinchi]]
 arch = "i686"
-git-tree-sha1 = "459c4195b70faa439f31135fc67f42d5021303a9"
+git-tree-sha1 = "2ed19e851982b2144d73dd4daa5254e862d6a21e"
 os = "windows"
 
     [[libinchi.download]]
-    sha256 = "d969ef088befa302dbdbee4d4659bce447bad5615cb79835c3b022b87decb7dd"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.i686-w64-mingw32.tar.gz"
+    sha256 = "3d368bb41dbbafa1822a62393cac6b08ca7582a9e2138da7f0bda5c9cb84995a"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.i686-w64-mingw32.tar.gz"
 [[libinchi]]
 arch = "powerpc64le"
-git-tree-sha1 = "1587b0b328a02489b5fb7eb9999825d26c6aa6b8"
+git-tree-sha1 = "fab0830327eedc7ea51ff463cc28ab12308ad4a2"
 libc = "glibc"
 os = "linux"
 
     [[libinchi.download]]
-    sha256 = "9ac5fec1db0315928e3009f8b387401af9dfb69ae0830c1553db173903ef0823"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b7d161784cf804f34b42de64b15677d388bd6d300328d57a7ad2ed3099a305d3"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.powerpc64le-linux-gnu.tar.gz"
 [[libinchi]]
 arch = "x86_64"
-git-tree-sha1 = "99a09bec1366ba01db9bfe43ce5e6decebf4b939"
+git-tree-sha1 = "c3449de3970a192ca9d1e25c3807c6aaaa176aa0"
 os = "macos"
 
     [[libinchi.download]]
-    sha256 = "992e436f4c2d10b1787740ca3113f5f6cde5d0abc36b729992567a58e8c598a9"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "2eb89a00d5eaec7cb8190af6832d42cb971d2b589a4ee1136c87bab10f7b90ee"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.x86_64-apple-darwin.tar.gz"
 [[libinchi]]
 arch = "x86_64"
-git-tree-sha1 = "7cea9bf455d1412131c14fc2ba4aa737a25e8d86"
+git-tree-sha1 = "9de77de71df89ddbe8da148757f28bab19ddda2c"
 libc = "glibc"
 os = "linux"
 
     [[libinchi.download]]
-    sha256 = "8983947b147725671abda80a4f5572e0fe84ca855fd9be50cb77cb64291fd8f9"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "b9d41d88e54b3766aff422ca6c4147f4e5ff7846f005af379221cc38b72a50d6"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.x86_64-linux-gnu.tar.gz"
 [[libinchi]]
 arch = "x86_64"
-git-tree-sha1 = "f8830485274e5c029d9679c66abe7ab0053f0578"
+git-tree-sha1 = "789bd203cf96a7d1dd4de9b43e914f0c3ca714c8"
 libc = "musl"
 os = "linux"
 
     [[libinchi.download]]
-    sha256 = "c19617c991c9ae18f4f1c0dc12d802155e4a941358666862571e0e8f2cf6e197"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.x86_64-linux-musl.tar.gz"
+    sha256 = "86574f1c2008e3575abaf83a92092f81dabaccf937647b486dae566a3e5955a5"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.x86_64-linux-musl.tar.gz"
 [[libinchi]]
 arch = "x86_64"
-git-tree-sha1 = "bbd83cbcc46108030e94080065dcd6570383882d"
+git-tree-sha1 = "d87aa9bd36b314e3698a2a6ebfabaf91d17fa70f"
 os = "freebsd"
 
     [[libinchi.download]]
-    sha256 = "9fe151f9e77125e411e259d1a810623a64ee74857f88a3456169b02f8f52c901"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "0ffde7e3a158a783ce8601ce9950e195e0323ce128f706b46dad3f0db5145280"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.x86_64-unknown-freebsd.tar.gz"
 [[libinchi]]
 arch = "x86_64"
-git-tree-sha1 = "f6e3e396d60e58debc6527a06cb3f7729e910655"
+git-tree-sha1 = "c3d548e802545ed1a95eac4d29ebdeb56fa6d8e4"
 os = "windows"
 
     [[libinchi.download]]
-    sha256 = "fc7fb5f55516c0986cf0d6d6bf2c005a56a4a4b9715b68e43da3f496ba3cc34c"
-    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.5.1+0/libinchi.v1.5.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "758589f09cecff5ee74774627c34f9b421cd47aa2785f18baa46f720ba52851e"
+    url = "https://github.com/JuliaBinaryWrappers/libinchi_jll.jl/releases/download/libinchi-v1.6.0+0/libinchi.v1.6.0.x86_64-w64-mingw32.tar.gz"
